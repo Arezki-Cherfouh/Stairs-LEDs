@@ -181,7 +181,3 @@ if (holidayMode) {
 ## License
 
 MIT - Free for learning and modification
-
-```
-
-```
